@@ -1,0 +1,9 @@
+@(
+.vs/
+*.exe
+*.o
+*.obj
+out/
+build/
+output_*.csv
+)
